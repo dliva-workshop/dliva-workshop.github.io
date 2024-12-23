@@ -1,0 +1,7 @@
+**[Prof. Dr. Mohan Trivedi](https://walzimmer.github.io/)** is a Distinguished Professor of Electrical and Computer Engineering and founding director of the Computer Vision and Robotics Research Laboratory, as well as the Laboratory for Intelligent and Safe Automobiles (LISA) at the University of California San Diego. 
+Trivedi and his team are pursuing research in intelligent vehicles, autonomous/self-driving, machine perception, machine learning, human-robot interactivity, advanced driver assistance, active safety and intelligent transportation systems. 
+He has published over 700 archival papers (h-index of 101, >41,000 citations), has won over 20 Best or Finalist Paper awards, has received the IEEE ITS Society’s Outstanding Research Award and LEAD Institution Award as well as the Meritorious Service and Pioneer Award of the IEEE Computer Society. 
+He is a Fellow of IEEE, SPIE, and IAPR. 
+Trivedi has served as the Robotics TC Chair for the IEEE Computer Society, on the Governing Boards of the IEEE SMC and ITSC Society, Editor-in-Chief of the Machine Vision Applications journal and charter member of the University of California System wide Digital Media Innovation program. 
+He has received Distinguished Alumnus awards from BITS, Pilani, India and Utah State University. 
+Trivedi serves regularly as a consultant to industry and government agencies in the USA and abroad.

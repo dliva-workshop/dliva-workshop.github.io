@@ -1,0 +1,7 @@
+**[Rui Song](https://rruisong.github.io/)** is currently pursuing a Ph.D. degree with the Chair of Robotics, Artificial Intelligence and Real-Time Systems, Technical University of Munich, Garching, Germany. 
+After working for four years as a software developer on digital validation for autonomous driving functions in the industry, he started his current occupation as a researcher at the Fraunhofer Institute for Transportation and Infrastructure Systems, Ingolstadt, Germany. 
+His research interests are federated learning, vehicular communication, cooperative perception, and intelligent transportation systems (ITS). 
+He has made notable contributions to the field, with papers published in prestigious journals such as the IEEE Internet of Things Journal, IEEE Transactions on Intelligent Vehicles, and Knowledge-based Systems.
+His work has been featured in conferences like CVPR, ECCV, IJCNN, IV, ITSC, and VTC. 
+Throughout his academic journey, Rui has been actively involved in organizing workshops (e.g. DDIVA@IV’24). 
+He also serves as a reviewer for numerous journals and conferences, including IEEE TNNLS, Information Fusion, Neurocomputing, NeurIPS, ACM Multimedia, AISTATS, IV, ITSC, and IJCNN.

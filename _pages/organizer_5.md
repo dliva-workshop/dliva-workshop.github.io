@@ -1,0 +1,5 @@
+**[Max Ronecker](https://www.linkedin.com/in/max-ronecker-929b72106/)** is a PhD student at the Institute of Computer Graphics and Vision at the Graz University of Technology in Austria and SETLabs Research GmbH in Munich, Germany. 
+He holds a B.Eng. in Electrical Engineering from the Cooperative State University (DHBW), a M.Sc. in Electrical Engineering and Information Technology from the Technical University of Munich (TUM) and a M.Eng. in Control Theory and Control Engineering from Tongji University. 
+His PhD is in the area of radar and camera-based perception for autonomous vehicles. 
+One of his main research interests is the fusion of different sensor modalities to predict the occupancy grid of the environment around the vehicle. 
+His further research interests include Machine Learning, Robotics, and Autonomous Driving.
