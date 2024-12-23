@@ -1,4 +1,4 @@
-**[Ross Greer](https://www.rossgreer.com/)** Prof. Dr. Ross Greer is an assistant professor at the Computer Science & Engineering Department at the University of California Merced. 
+**[Prof. Dr. Ross Greer](https://www.rossgreer.com/)** is an assistant professor at the Computer Science & Engineering Department at the University of California Merced. 
 He is head of the Mi3 Lab to research machine intelligence, interaction, and imagination. 
 Ross completed his PhD in Electrical & Computer Engineering with the Laboratory for Intelligent & Safe Automobiles (LISA) at the University of California San Diego. 
 His Ph.D. was supervised by Prof. Dr. Mohan Trivedi, following the MS degree at UCSD and BS and BA degrees at UC Berkeley. 

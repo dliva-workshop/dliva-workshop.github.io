@@ -1,4 +1,4 @@
-**[Holger Caesar](https://it-caesar.de/)** is a tenured Assistant Professor in the Intelligent Vehicles group of TU Delft in the Netherlands. 
+**[Prof. Dr. Holger Caesar](https://it-caesar.de/)** is a tenured Assistant Professor in the Intelligent Vehicles group of TU Delft in the Netherlands. 
 Holger’s research interests are in Autonomous Vehicle perception and prediction, with a particular focus on the scalability of learning and annotation approaches. 
 Previously, Holger was a Principal Research Scientist at an autonomous vehicle company called Motional (formerly nuTonomy). 
 He started three teams with 20+ members that focused on Data Annotation, Autolabeling, and Data Mining. 
