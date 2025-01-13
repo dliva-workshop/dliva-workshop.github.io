@@ -75,7 +75,7 @@ profiles:
     content: organizer_9.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Yifan Liu</p>
+      <p>Yifan Liu,</p>
       <p>PhD Student</p>
       <p>University of California Los Angeles</p>
   - align: left
@@ -83,7 +83,7 @@ profiles:
     content: organizer_10.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Haoxuan Ma</p>
+      <p>Haoxuan Ma,</p>
       <p>PhD Student</p>
       <p>University of California Los Angeles</p>
   - align: right
