@@ -70,7 +70,7 @@ profiles:
       <p>Stephany Berrio Perez</p>
       <p>Post-Doc</p>
       <p>University of Sydney</p>
-  - align: left
+  - align: right
     image: yifan_liu.jpg 
     content: organizer_9.md
     image_circular: true # crops the image to make it circular
