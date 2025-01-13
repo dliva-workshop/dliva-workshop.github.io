@@ -70,9 +70,25 @@ profiles:
       <p>Stephany Berrio Perez</p>
       <p>Post-Doc</p>
       <p>University of Sydney</p>
+  - align: left
+    image: yifan_liu.jpg 
+    content: organizer_9.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Yifan Liu</p>
+      <p>PhD Student</p>
+      <p>University of California Los Angeles</p>
+  - align: left
+    image: haoxuan_ma.jpg
+    content: organizer_10.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Haoxuan Ma</p>
+      <p>PhD Student</p>
+      <p>University of California Los Angeles</p>
   - align: right
     image: holger_caesar.jpg
-    content: organizer_9.md
+    content: organizer_11.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Holger Caesar</p>
@@ -80,7 +96,7 @@ profiles:
       <p>Delft University of Technology</p>
   - align: left
     image: Author_Knoll.png
-    content: organizer_10.md
+    content: organizer_12.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Alois Knoll</p>
