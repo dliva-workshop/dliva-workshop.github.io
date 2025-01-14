@@ -38,14 +38,14 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Dr. Catherine M. Elias<br></p>
-      <p>Research Research Group Director<br></p>
+      <p>Research Group Director<br></p>
       <p>The German University in Cairo, Egypt</p>
   - align: right
     image: katie_luo.jpeg
     content: speaker_5.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Katie Luo, <br></p>
+      <p>Katie Luo<br></p>
       <p>PhD Student<br></p>
       <p>Cornell University, USA</p>
   - align: left
