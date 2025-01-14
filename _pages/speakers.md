@@ -11,7 +11,7 @@ profiles:
     content: speaker_1.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Abhinav Valada  </p>
+      <p>Prof. Dr. </br>Abhinav Valada</p></br>
       <p>Full Professor</p>
       <p>University of Freiburg, Germany</p>
   - align: left
@@ -23,11 +23,11 @@ profiles:
       <p>Associate Professor</p>
       <p>University Carlos III of Madrid </p>
   - align: right
-    image: ignacio_alvarez.jpg
+    image: ignacio_alvarez.jpeg
     content: speaker_3.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Prof. Dr. Fernando Garcia </p>
+      <p>Prof. Dr. </br>Fernando Garcia </p>
       <p>Associate Professor</p>
       <p>University Carlos III of Madrid </p>
   - align: left
@@ -43,7 +43,7 @@ profiles:
     content: speaker_5.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Katie Luo </p>
+      <p>Katie Luo, </p></br>
       <p>PhD Student</p>
       <p>Cornell University</p>
   - align: left
