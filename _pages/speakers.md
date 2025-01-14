@@ -11,47 +11,49 @@ profiles:
     content: speaker_1.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Prof. Dr. </br>Abhinav Valada</p></br>
-      <p>Full Professor</p>
+      <p>Prof. Dr.<br></p>
+      <p>Abhinav Valada<br></p>
+      <p>Full Professor<br></p>
       <p>University of Freiburg, Germany</p>
   - align: left
     image: fernando_garcia.jpeg
     content: speaker_2.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Prof. Dr. Fernando Garcia </p>
-      <p>Associate Professor</p>
-      <p>University Carlos III of Madrid </p>
+      <p>Prof. Dr.  <br></p>
+      <p>Fernando Garcia<br> </p>
+      <p>Associate Professor<br></p>
+      <p>University Carlos III of Madrid, Spain</p>
   - align: right
     image: ignacio_alvarez.jpeg
     content: speaker_3.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Prof. Dr. </br>Fernando Garcia </p>
-      <p>Associate Professor</p>
-      <p>University Carlos III of Madrid </p>
+      <p>Dr. </br>Ignacio Alvarez<br></p>
+      <p>Principal Engineer<br></p>
+      <p>Intel Corporation, USA </p>
   - align: left
     image: catherine_elias.jpeg
     content: speaker_4.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Dr. Catherine M. Elias</p>
-      <p>Research Research Group Director</p>
-      <p>The German University in Cairo</p>
+      <p>Dr. Catherine M. Elias<br></p>
+      <p>Research Research Group Director<br></p>
+      <p>The German University in Cairo, Egypt</p>
   - align: right
     image: katie_luo.jpeg
     content: speaker_5.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Katie Luo, </p></br>
-      <p>PhD Student</p>
-      <p>Cornell University</p>
+      <p>Katie Luo, <br></p>
+      <p>PhD Student<br></p>
+      <p>Cornell University, USA</p>
   - align: left
     image: maria_lyssenko.jpg
     content: speaker_6.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Maria Lyssenko</p>
-      <p>PhD Student</p>
-      <p>BOSCH & Technical University of Munich</p>  
+      <p>Maria Lyssenko<br></p>
+      <p>PhD Student<br></p>
+      <p>BOSCH & Technical University of Munich, Germany</p>  
 ---
