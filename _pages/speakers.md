@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 profiles:
   - align: right
-    image: abhinav_valada.jpg
+    image: abhinav_valada.jpeg
     content: speaker_1.md
     image_circular: true # crops the image to make it circular
     more_info: >
