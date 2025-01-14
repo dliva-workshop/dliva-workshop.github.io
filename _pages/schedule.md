@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 description: TENTATIVE FORMAT AND SCHEDULE
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 The full day workshop schedule is planned with two half-day sessions that will be split by the conference planned lunch break.
