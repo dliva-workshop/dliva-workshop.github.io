@@ -74,7 +74,7 @@ The best paper (according to the reviewers' ratings and organizing committee) wi
 
 All submissions must be uploaded electronically via the [papercept submission website](https://its.papercept.net/conferences/scripts/start.pl).
 
-Use the following code to submit your paper to the workshop: <p style="color:#ff9999;">**DataDrivenLearningIV**</p>
+Use the following code to submit your paper to the workshop: [**DataDrivenLearningIV**](https://ieee-iv.org/2025/wp-content/uploads/sites/3/2025/01/Workshops_IV_ok.pdf)
 
 At least one of the authors of the accepted workshop papers must register for the workshop and be present on the day of the workshop.
 
