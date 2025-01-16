@@ -71,32 +71,40 @@ profiles:
       <p>Post-Doc</p>
       <p>University of Sydney</p>
   - align: right
-    image: yifan_liu.jpg 
+    image: mert_keser.jpg
     content: organizer_9.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Mert Keser</p>
+      <p>PhD Student & AI Research Scientist</p>
+      <p>Technical University of Munich & Continental Berlin AI Lab</p>
+  - align: left
+    image: yifan_liu.jpg 
+    content: organizer_10.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Yifan Liu,</p>
       <p>PhD Student</p>
       <p>University of California Los Angeles</p>
-  - align: left
+  - align: right
     image: haoxuan_ma.jpg
-    content: organizer_10.md
+    content: organizer_11.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Haoxuan Ma,</p>
       <p>PhD Student</p>
       <p>University of California Los Angeles</p>
-  - align: right
+  - align: left
     image: holger_caesar.jpg
-    content: organizer_11.md
+    content: organizer_12.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Holger Caesar</p>
       <p>Assistant Professor</p>
       <p>Delft University of Technology</p>
-  - align: left
+  - align: right
     image: Author_Knoll.png
-    content: organizer_12.md
+    content: organizer_13.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Alois Knoll</p>
