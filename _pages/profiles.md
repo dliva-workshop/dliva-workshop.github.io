@@ -55,56 +55,64 @@ profiles:
       <p>PhD Student</p>
       <p>Technical University of Munich (TUM)</p>
   - align: right
-    image: chuheng_wei.jpeg
+    image: lars_ullrich.jpg
     content: organizer_7.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Lars Ullrich</p>
+      <p>PhD Student</p>
+      <p>University of Erlangen–Nuremberg </p>  
+  - align: left
+    image: chuheng_wei.jpeg
+    content: organizer_8.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Chuheng Wei</p>
       <p>PhD Student</p>
       <p>University of California Riverside (UCR)</p>
-  - align: left
+  - align: right
     image: stephany_berrio_perez.jpg
-    content: organizer_8.md
+    content: organizer_9.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Stephany Berrio Perez</p>
       <p>Post-Doc</p>
       <p>University of Sydney</p>
-  - align: right
+  - align: left
     image: mert_keser.jpg
-    content: organizer_9.md
+    content: organizer_10.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Mert Keser</p>
       <p>PhD Student & AI Research Scientist</p>
       <p>Technical University of Munich & Continental Berlin AI Lab</p>
-  - align: left
+  - align: right
     image: yifan_liu.jpg 
-    content: organizer_10.md
+    content: organizer_11.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Yifan Liu,</p>
       <p>PhD Student</p>
       <p>University of California Los Angeles</p>
-  - align: right
+  - align: left
     image: haoxuan_ma.jpg
-    content: organizer_11.md
+    content: organizer_12.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Haoxuan Ma,</p>
       <p>PhD Student</p>
       <p>University of California Los Angeles</p>
-  - align: left
+  - align: right
     image: holger_caesar.jpg
-    content: organizer_12.md
+    content: organizer_13.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Holger Caesar</p>
       <p>Assistant Professor</p>
       <p>Delft University of Technology</p>
-  - align: right
+  - align: left
     image: Author_Knoll.png
-    content: organizer_13.md
+    content: organizer_14.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Alois Knoll</p>

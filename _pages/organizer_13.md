@@ -1,10 +1,12 @@
-**[Prof. Dr.-Ing. habil. Alois C. Knoll](https://it-caesar.de/)** is a professor at the Technical University of Munich (TUM), Germany. 
-He began his career at TU Berlin and became a full professor at the University of Bielefeld. 
-In 2001, he joined the Technical University of Munich (TUM) as a Computer Science professor, where he played a significant role in the Institute of Medical Engineering Technology (IMETUM) and served as Executive Director of TUM’s Institute of Computer Science. 
-He has published over 2,000 technical papers (>30,000 citations, h-index: 72) and led national and EU-funded projects. 
-He has organized major conferences such as IEEE-RAS Humanoid Robots 2020 and IEEE-IROS and founded fortiss to promote research-industry collaboration. 
-Prof. Knoll has been a key figure in initiatives linking computer science with neuroscience, including the EU Human Brain Project and neuro-IT endeavors.
-He’s committed to education, having initiated programs like TUM’s Graduate School of Information Science in Health and the Robotics, Cognition, and Intelligence program. 
-His contributions have earned him prestigious awards like the Carl-Ramsauer-Prize and the University of Tokyo Fellowship.
-He is active in various professional societies and advisory roles. 
-Prof. Knoll has founded multiple startups in artificial intelligence, autonomous driving, and foundation models.
+**[Prof. Dr. Holger Caesar](https://it-caesar.de/)** is a tenured Assistant Professor in the Intelligent Vehicles group of TU Delft in the Netherlands. 
+Holger’s research interests are in Autonomous Vehicle perception and prediction, with a particular focus on the scalability of learning and annotation approaches. 
+Previously, Holger was a Principal Research Scientist at an autonomous vehicle company called Motional (formerly nuTonomy). 
+He started three teams with 20+ members that focused on Data Annotation, Autolabeling, and Data Mining. 
+Holger received a PhD in Computer Vision from the University of Edinburgh in Scotland under Prof. Dr. Vittorio Ferrari and studied in Germany and Switzerland (KIT Karlsruhe, EPF Lausanne, ETH Zurich). 
+He is best known for developing the influential autonomous driving datasets nuScenes and nuPlan and his contributions to the real-time 3D object detection method PointPillars. 
+His research interests include 3D detection, segmentation, prediction, active learning, sensor fusion, and collaborative perception. 
+Holger has an extensive record of publications in top-tier conferences such as CVPR, ICCV, ECCV, and IEEE IV, and he has secured multiple grants, including an EU KDT grant and a TU Delft internal grant. 
+Holger also serves as an Associate Editor for IEEE Robotics and Automation Letters (RA-L) and holds several roles at TU Delft, and is a board member of the ELLIS Delft unit. 
+He was the area chair at ICCV’23, NCCV’23, and ECCV’24 and will be the area chair for CVPR 2025. 
+Holger has contributed to 32 workshops as an organizer or keynote speaker. 
+He co-organized 13 workshops (COCO@ICCV’17, COCO@ICCV’19, WAD@CVPR’19, AIDO@NeurIPS’19, BPAD@IROS’20, AIDO@NeurIPS’20, AIDO@ICRA’21, SRAD@ICRA’23, E2E-AD@CVPR’23, DMLR@ICLR’24, FMAS@CVPR’24, CODA@ECCV’24), DriveX@CVPR'25, one conference (NCCV’23), and gave 19 keynote presentations.
