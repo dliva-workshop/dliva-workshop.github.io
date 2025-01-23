@@ -103,16 +103,24 @@ profiles:
       <p>PhD Student</p>
       <p>University of California Los Angeles</p>
   - align: right
-    image: holger_caesar.jpg
+    image: jiajie_zhang.jpg
     content: organizer_13.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Jiajie Zhang,</p>
+      <p>PhD Student,</p>
+      <p>Technical University of Munich (TUM)</p>      
+  - align: left
+    image: holger_caesar.jpg
+    content: organizer_14.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Holger Caesar</p>
       <p>Assistant Professor</p>
       <p>Delft University of Technology</p>
-  - align: left
+  - align: right
     image: Author_Knoll.png
-    content: organizer_14.md
+    content: organizer_15.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Alois Knoll</p>
