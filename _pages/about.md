@@ -90,3 +90,6 @@ The important dates of the workshop should not be later than:
 - Workshop date: **June 22, 2025**
 
 All submission deadlines are end-of-day in the **Pacific Time Zone**.
+
+### Sponsors
+We are currently seeking sponsorship opportunities and would be delighted to discuss potential collaborations. Interested parties are kindly requested to contact us via email at walter.zimmer@cs.tum.edu for further details.
