@@ -1,3 +1,3 @@
-**[Yifan Liu](bmmliu.github.io)** Yifan Liu is a Ph.D. student from the Civil and Environmental Engineering Department, at the University of California, Los Angeles. 
+**[Yifan Liu](bmmliu.github.io)** is a Ph.D. student from the Civil and Environmental Engineering Department, at the University of California, Los Angeles. 
 He received his M.S. degree in Computer Science from New York University in 2024 and his B.E. degree in Computer Science and Engineering from the University of California, Davis. 
 His research interests include large language models, reinforcement learning, and deep learning, with a focus on applications to smart mobility systems and autonomous driving.
