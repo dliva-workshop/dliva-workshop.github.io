@@ -82,12 +82,30 @@ For questions regarding submissions, please contact us.
 
 ### Important Dates
 
-The important dates of the workshop should not be later than:
 
-- Workshop paper submission: **February 1, 2025**
-- Workshop paper notification: **March 30, 2025**
-- Workshop paper final submission: **April 25, 2025**
-- Workshop date: **June 22, 2025**
+<table>
+  <tr>
+    <td><s>Workshop Paper Submission Deadline I (published in proceedings):</s></td>
+    <td><b><s>February 1, 2025</s></b></td>
+  </tr>
+  <tr>
+    <td>Workshop Concept Paper Submission Deadline II (not published): </td>
+    <td><b>March 15, 2025</b></td>
+  </tr>
+  <tr>
+    <td>Workshop paper notification:</td>
+    <td><b>March 30, 2025</b></td>
+  </tr>
+  <tr>
+    <td>Workshop paper final submission: </td>
+    <td><b>April 25, 2025</b></td>
+  </tr>
+  <tr>
+    <td>Workshop date: </td>
+    <td><b>June 22, 2025</b></td>
+  </tr>
+</table>
+
 
 All submission deadlines are end-of-day in the **Pacific Time Zone**.
 
