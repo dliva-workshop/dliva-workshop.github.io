@@ -108,7 +108,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Dr. Bangalore Ravi Kiran,</p>
-      <p>Senior Staff Engineer an Manager,</p>
+      <p>Senior Staff Engineer and Manager,</p>
       <p>Qualcomm Inc.</p>          
   - align: left
     image: mert_keser.jpg
