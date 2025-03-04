@@ -95,6 +95,22 @@ profiles:
       <p>Engineering Director,</p>
       <p>Qualcomm Inc.</p>
   - align: left
+    image: andrei_bulzan.jpg
+    content: organizer_andrei_bulzan.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Andrei Bulzan,</p>
+      <p>Senior Machine Learning Engineer,</p>
+      <p>Qualcomm Inc.</p>      
+  - align: right
+    image: bangalore_ravi_kiran.jpg
+    content: organizer_bangalore_ravi_kiran.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Dr. Bangalore Ravi Kiran,</p>
+      <p>Senior Staff Engineer an Manager,</p>
+      <p>Qualcomm Inc.</p>          
+  - align: left
     image: mert_keser.jpg
     content: organizer_mert_keser.md
     image_circular: true # crops the image to make it circular
