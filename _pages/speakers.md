@@ -88,8 +88,8 @@ profiles:
     content: speaker_8.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Katie Luo<br></p>
-      <p>PhD Student<br></p>
-      <p>Cornell University, USA</p>
+      <p>Dr. Katie Luo<br></p>
+      <p>Post Doc<br></p>
+      <p>Stanford University, USA</p>
 
 ---
