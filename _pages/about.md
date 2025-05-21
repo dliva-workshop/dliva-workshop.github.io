@@ -90,15 +90,15 @@ For questions regarding submissions, please contact us.
   </tr>
   <tr>
     <td>Workshop Concept Paper Submission Deadline II (not published): </td>
-    <td><b>March 15, 2025</b></td>
+    <td><b><s>March 15, 2025</s></b></td>
   </tr>
   <tr>
     <td>Workshop paper notification:</td>
-    <td><b>March 30, 2025</b></td>
+    <td><b><s>March 30, 2025</s></b></td>
   </tr>
   <tr>
     <td>Workshop paper final submission: </td>
-    <td><b>April 25, 2025</b></td>
+    <td><b><s>April 25, 2025</s></b></td>
   </tr>
   <tr>
     <td>Workshop date: </td>
@@ -110,4 +110,12 @@ For questions regarding submissions, please contact us.
 All submission deadlines are end-of-day in the **Pacific Time Zone**.
 
 ### Sponsors
+
+We sincerely thank Qualcomm Inc. for their generous sponsorship of our workshop. Their support enables us to recognize outstanding research through prestigious awards. 
+
+<p align="center">
+  <img src="../assets/img/qualcomm_logo.png" alt="Qualcomm Logo" style="width: 10%">
+</p>
+
+
 We are currently seeking sponsorship opportunities and would be delighted to discuss potential collaborations. Interested parties are kindly requested to contact us via email at walter.zimmer@cs.tum.edu for further details.

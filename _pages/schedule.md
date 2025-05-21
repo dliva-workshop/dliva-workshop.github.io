@@ -14,20 +14,26 @@ Note that our tentative schedule currently has this planned for 12:00-13:00, but
 Our program will consist of the following main components: 1) invited keynotes from experts in the field coming from both industry and academia to create a synergistic atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted works into DLIVA, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, 4) contributed poster sessions to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
 
 - Morning session
-  - 09:00 - 09:10 Welcome & *Opening Remarks* 
-  - 09:10 - 10:10 *3 Keynotes (3 x 20 min)* 
-  - 10:10 - 10:20 *Coffee break* / Social Networking
-  - 10:20 - 11:20 *3 Keynotes (3 x 20 min)*
-  - 11:20 - 12:00 Panel Discussion I 
-- Lunch Break (12:00 - 12:00)
+  - 09:00 - 09:10 Welcome & Opening Remarks
+  - 09:10 - 10:30 4 Keynotes (4 x 20 min)
+  - 10:30 - 10:50 Coffee break / Social Networking
+  - 10:50 - 11:10 1 Keynote (1 x 20 min)
+  - 11:10 - 11:40 2 Paper Presentations (2 x 15 min)
+  - 11:40 - 12:30 Panel Discussion I 
+- Lunch Break (12:30 - 13:30)
 - Afternoon session 
-  - 13:00 - 14:20 *4 Keynotes (4 x 20 min)*
-  - 14:20 - 15:00 Panel Discussion II
-  - 15:00 - 15:15 *Coffee break* / Social Networking
-  - 15:15 - 16:45 6 Paper Presentations (6 x 15 min)
-  - 16:45 - 17:00 Competition Winner Announcement & Awards
-  - 17:00 - 17:15 Best Paper Award Ceremony
-  - 17:15 - 17:30 Final Remarks & Networking
+  - 13:30 - 14:50 4 Keynotes (4 x 20 min)
+  - 14:50 - 15:30 Panel Discussion II
+  - 15:30 - 15:50 Coffee break / Social Networking
+  - 15:50 - 16:20 2 Paper Presentations (2 x 15 min)
+  - 16:20 - 16:30 Competition Winner Announcements, Handover of Awards & Prizes, Group Photo
+  - 16:30 - 16:45 Competition Winner Presentation
+  - 16:45 - 16:55 Best Paper Announcements, Handover of Awards & Prizes, Group Photo
+  - 16:55 - 17:10 Best Paper Presentation
+  - 17:10 - 17:30 1 Keynote (1 x 20 min)
+  - 17:30 - 17:30 Announcement of Evening Social Event (Location & Time)
+  - 17:30 - 18:00 Poster Session & Networking
+  - 18:00 - 21:00 Social Event (Networking & Dinner with Organizers, Speakers and Invited Guests)
 
 **Panel.** 
 Our anticipation is to have two panel discussions in our workshop. 

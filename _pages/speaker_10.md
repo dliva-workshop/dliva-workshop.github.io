@@ -1,0 +1,2 @@
+**[Fabian Immel](https://www.linkedin.com/in/fabian-immel-130878143)** is PhD student in mapping and localization for autonomous driving at FZI. He received his B.Sc. and M.Sc. in Mechanical Engineering from the Karlsruhe Institute of Technology (KIT). His current research interest is mainly automated driving and computer vision, focusing on HD map construction and generating training data for HD Maps.
+
