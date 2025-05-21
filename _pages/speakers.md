@@ -42,7 +42,7 @@ profiles:
       <p>BOSCH & Technical University of Munich, Germany</p>        
   - align: left
     image: fabian_immel.jpg
-    content: speaker_9.md
+    content: speaker_10.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Fabian Immel<br></p>
