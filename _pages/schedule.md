@@ -9,12 +9,11 @@ nav_order: 2
 
 The full day workshop schedule is planned with two half-day sessions that will be split by the conference planned lunch break.
 
-Our program will consist of the following main components: 1) invited keynotes from experts in the field coming from both industry and academia to create a synergistic atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted works into DLIVA, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, 4) contributed poster sessions to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
 
 <table class="table table-striped">
     <tr style="background-color: #fffddb">
         <td width="130">08:30 - 08:40</td>
-        <td>Speaker Registration
+        <td>Speaker Registration</td>
     </tr>
     <tr style="background-color: #fffddb">
         <td width="130">08:40 - 08:50</td>
@@ -37,11 +36,11 @@ Our program will consist of the following main components: 1) invited keynotes f
     </tr>
     <tr style="background-color:#e4ffde">
         <td>09:50 - 10:10</td>
-        <td>Keynote 3: <b>Prof. Dr. Ignacio Alvarez (Uni. of Applied Sciences Ingolstadt & Intel Labs)</b><br>
+        <td>Keynote 3: <b>Prof. Dr. Ignacio Alvarez (Uni. of Applied Sciences Ingolstadt & Intel Labss</b><br></td>
     </tr>
         <tr style="background-color:#e4ffde">
         <td>10:10 - 10:30</td>
-        <td>Keynote 4: <b>Maria Lyssenko (TUM & BOSCH)</b><br>
+        <td>Keynote 4: <b>Maria Lyssenko (TUM & BOSCH)</b><br></td>
     </tr>
     <tr style="background-color:#ffe7d3">
         <td>10:30 - 10:50</td>
@@ -129,7 +128,7 @@ Our program will consist of the following main components: 1) invited keynotes f
     </tr>
     <tr style="background-color:#fffddb">
         <td>17:40 - 18:00</td>
-        <td><b>Prof. Dr. Ross Greer (Uni. of California Merced)<b><br>Closing & Announcement of DLIVA Workshop Reception (Location & Time), Group Picture of all Organizers and Speakers</td>
+        <td><b>Prof. Dr. Ross Greer (Uni. of California Merced)</b><br>Closing & Announcement of DLIVA Workshop Reception (Location & Time), Group Picture of all Organizers and Speakers</td>
     </tr>
     <tr style="background-color:#fffddb">
         <td>19:00 - 21:00</td>
@@ -137,27 +136,9 @@ Our program will consist of the following main components: 1) invited keynotes f
     </tr>
 </table>
 
-- Morning session
-  - 09:00 - 09:10 Welcome & Opening Remarks
-  - 09:10 - 10:30 4 Keynotes (4 x 20 min)
-  - 10:30 - 10:50 Coffee break / Social Networking
-  - 10:50 - 11:30 2 Keynotes (2 x 20 min)
-  - 11:30 - 12:00 2 Paper Presentations (2 x 15 min)
-  - 12:00 - 12:30 Panel Discussion I 
-- Lunch Break (12:30 - 13:30)
-- Afternoon session 
-  - 13:30 - 14:50 4 Keynotes (4 x 20 min)
-  - 14:50 - 15:30 Panel Discussion II
-  - 15:30 - 15:50 Coffee break / Social Networking
-  - 15:50 - 16:20 2 Paper Presentations (2 x 15 min)
-  - 16:20 - 16:30 Competition Winner Announcements, Handover of Awards & Prizes, Group Photo
-  - 16:30 - 16:45 Competition Winner Presentation
-  - 16:45 - 16:55 Best Paper Announcements, Handover of Awards & Prizes, Group Photo
-  - 16:55 - 17:10 Best Paper Presentation
-  - 17:10 - 17:30 1 Keynote (1 x 20 min)
-  - 17:30 - 17:30 Announcement of Evening Social Event (Location & Time)
-  - 17:30 - 18:00 Poster Session & Networking
-  - 18:00 - 21:00 Social Event (Networking & Dinner with Organizers, Speakers and Invited Guests)
+
+Our program will consist of the following main components: 1) invited keynotes from experts in the field coming from both industry and academia to create a synergistic atmosphere and to stimulate collaborations, 2) contributed research oral talks selected from the set of accepted works into DLIVA, 3) future directions panel discussion that will be composed of our keynote speakers given their expertise in this domain, 4) contributed poster sessions to allow all those with works accepted into the workshop (not just those selected for oral talks) to present their work and socialize stimulating new ideas and potential collaborations.
+
 
 **Panel.** 
 Our anticipation is to have two panel discussions in our workshop. 
