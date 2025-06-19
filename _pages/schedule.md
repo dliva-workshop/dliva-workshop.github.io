@@ -47,11 +47,11 @@ The full day workshop schedule is planned with two half-day sessions that will b
         <td>10:50 - 11:10</td>
         <td>Keynote 5: <b>Fabian Immel (FZI)</b><br>Scalability of Map Perception in AD Stacks</td>
     </tr>
-    <tr style="background-color:#e4ffde">
+    <tr style="background-color:#DEF3FD">
         <td>11:10 - 11:25</td>
-        <td>Paper Presentation 1: <b>Esteban Rivera (TUM)</b><br>Inconsistency-based Active Learning for LiDAR 3D Object Detection</td>
+        <td>Paper Presentation 1: <b>Cornelius Schröder (TUM)</b><br>Inconsistency-based Active Learning for LiDAR 3D Object Detection</td>
     </tr>
-    <tr style="background-color:#e4ffde">
+    <tr style="background-color:#DEF3FD">
         <td>11:25 - 11:40</td>
         <td>Paper Presentation 2: <b>Svetlana Pavlitska (FZI)</b><br>Label-free Model Failure Detection for LiDAR-based Point Cloud Segmentation</td>
     </tr>
@@ -89,7 +89,7 @@ The full day workshop schedule is planned with two half-day sessions that will b
     </tr>
     <tr style="background-color:#DEF3FD">
         <td>16:00 - 16:15</td>
-        <td>Paper Presentation 3: <b>Dr. Ziran Wang</b><br>Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles</td>
+        <td>Paper Presentation 3: <b>Prof. Dr. Ziran Wang</b><br>Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles</td>
     </tr>
     <tr style="background-color:#DEF3FD">
         <td>16:15 - 16:30</td>
@@ -101,9 +101,9 @@ The full day workshop schedule is planned with two half-day sessions that will b
     </tr>
     <tr style="background-color:#fffddb">
         <td>16:45 - 17:00</td>
-        <td>Paper Award Ceremony: <b>Madhumitha Sakthi (Qualcomm Inc.)</b><br>Best Paper Awards (Announcement & Handover of Prizes) + Group Photo</td>
+        <td>Paper Award Ceremony: <b>Daniel Watzenig (Virtual Vehicle Research GmbH)</b><br>Best Paper Awards (Announcement & Handover of Prizes) + Group Photo</td>
     </tr>
-    <tr style="background-color:#fffddb">
+    <tr style="background-color:#ffe7d3">
         <td>17:00 - 17:20</td>
         <td>Coffee Break / Poster Session / Social Networking</td>
     </tr>
@@ -115,7 +115,7 @@ The full day workshop schedule is planned with two half-day sessions that will b
         <td>17:40 - 18:00</td>
         <td><b>Prof. Dr. Ross Greer (Uni. of California Merced)</b><br>Closing & Announcement of DLIVA Workshop Reception (Location & Time), Group Picture of all Organizers and Speakers</td>
     </tr>
-    <tr style="background-color:#fffddb">
+    <tr style="background-color:#f9e9fc">
         <td>19:00 - 21:00</td>
         <td>Workshop Reception (Social Mixer, Networking, Dinner) - Free for Workshop Organizers, Speakers and Invited Guests</td>
     </tr>
