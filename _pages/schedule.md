@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-<table class="table table-striped" style="color: gray;">
+<table class="table table-striped" style="color: black;">
     <tr style="background-color: #fffddb">
         <td width="130">08:30 - 09:00</td>
         <td>Speaker Registration</td>
