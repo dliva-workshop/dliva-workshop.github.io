@@ -10,7 +10,7 @@ nav_order: 2
 The full day workshop schedule is planned with two half-day sessions that will be split by the conference planned lunch break.
 
 
-<table class="table table-striped">
+<table class="table table-striped" style="color: gray;">
     <tr style="background-color: #fffddb">
         <td width="130">08:30 - 08:40</td>
         <td>Speaker Registration</td>
