@@ -27,7 +27,7 @@ nav_order: 2
     </tr>
     <tr style="background-color:#e4ffde">
         <td>09:50 - 10:10</td>
-        <td>Keynote 3: <b>Prof. Dr. Ignacio Alvarez (Uni. of Applied Sciences Ingolstadt & Intel Labss</b><br>Challenges and Opportunities in Automated Driving in the Era of Agentic AI</td>
+        <td>Keynote 3: <b>Prof. Dr. Ignacio Alvarez (Uni. of Applied Sciences Ingolstadt & Intel Labs</b><br>Challenges and Opportunities in Automated Driving in the Era of Agentic AI</td>
     </tr>
         <tr style="background-color:#e4ffde">
         <td>10:10 - 10:30</td>
