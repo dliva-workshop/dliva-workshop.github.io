@@ -15,7 +15,7 @@ nav_order: 2
     </tr>
     <tr style="background-color: #fffddb">
         <td width="130">09:00 - 09:10</td>
-        <td>Opening Remarks & Welcome: <b>Prof. Dr. Ross Greer</b><br></td>
+        <td>Opening Remarks & Welcome: <b>Lars Ullrich</b><br></td>
     </tr>
     <tr style="background-color:#e4ffde">
         <td>09:10 - 09:30</td>
@@ -23,15 +23,15 @@ nav_order: 2
     </tr>
     <tr style="background-color:#e4ffde">
         <td>09:10 - 09:30</td>
-        <td>Keynote 2: <b>Prof. Dr. Matthew Barth (Uni. of California Riverside)</b><br></td>
+        <td>Keynote 2: <b>Prof. Dr. Matthew Barth (Uni. of California Riverside)</b><br>Intelligent Transportation Solutions for a Smart City</td>
     </tr>
     <tr style="background-color:#e4ffde">
         <td>09:50 - 10:10</td>
-        <td>Keynote 3: <b>Prof. Dr. Ignacio Alvarez (Uni. of Applied Sciences Ingolstadt & Intel Labss</b><br></td>
+        <td>Keynote 3: <b>Prof. Dr. Ignacio Alvarez (Uni. of Applied Sciences Ingolstadt & Intel Labss</b><br>Challenges and Opportunities in Automated Driving in the Era of Agentic AI</td>
     </tr>
         <tr style="background-color:#e4ffde">
         <td>10:10 - 10:30</td>
-        <td>Keynote 4: <b>Maria Lyssenko (TUM & BOSCH)</b><br></td>
+        <td>Keynote 4: <b>Maria Lyssenko (TUM & BOSCH)</b><br>Functional Evaluation of Perception Performance for Automated Driving (AD)</td>
     </tr>
     <tr style="background-color:#ffe7d3">
         <td>10:30 - 10:50</td>
@@ -71,7 +71,7 @@ nav_order: 2
     </tr>
     <tr style="background-color:#e4ffde">
         <td>14:30 - 14:50</td>
-        <td>Keynote 8: <b>Prof. Dr. Jiaqi Ma (UCLA)</b><br></td>
+        <td>Keynote 8: <b>Prof. Dr. Jiaqi Ma (UCLA)</b><br>A Multi-Agent Future of Mobility with Intelligent Vehicles and Infrastructure</td>
     </tr>
     <tr style="background-color:#DDDDDD">
         <td>14:50 - 15:30</td>
