@@ -71,7 +71,7 @@ nav_order: 2
     </tr>
     <tr style="background-color:#e4ffde">
         <td>14:30 - 14:50</td>
-        <td>Keynote 8: <b>Prof. Dr. Jiaqi Ma (UCLA)</b><br>A Multi-Agent Future of Mobility with Intelligent Vehicles and Infrastructure</td>
+        <td>Keynote 9: <b>Prof. Dr. Jiaqi Ma (UCLA)</b><br>A Multi-Agent Future of Mobility with Intelligent Vehicles and Infrastructure</td>
     </tr>
     <tr style="background-color:#DDDDDD">
         <td>14:50 - 15:30</td>
