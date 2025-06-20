@@ -22,7 +22,7 @@ nav_order: 2
         <td>Keynote 1: <b>Prof. Dr. Abhinav Valada (Uni. of Freiburg)</b><br>Towards Open-World Automated Driving</td>
     </tr>
     <tr style="background-color:#e4ffde">
-        <td>09:10 - 09:30</td>
+        <td>09:30 - 09:50</td>
         <td>Keynote 2: <b>Prof. Dr. Matthew Barth (Uni. of California Riverside)</b><br>Intelligent Transportation Solutions for a Smart City</td>
     </tr>
     <tr style="background-color:#e4ffde">
