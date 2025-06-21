@@ -10,6 +10,15 @@ $(document).ready(function() {
   });
   $('a').removeClass('waves-effect waves-light');
 
+  // Fix mobile menu toggle
+  $('.navbar-toggler').click(function() {
+    var target = $(this).attr('data-target');
+    $(target).toggleClass('show');
+    $(this).toggleClass('collapsed');
+    var expanded = $(this).attr('aria-expanded') === 'true';
+    $(this).attr('aria-expanded', !expanded);
+  });
+
   // bootstrap-toc
   if($('#toc-sidebar').length){
     var navSelector = "#toc-sidebar";
