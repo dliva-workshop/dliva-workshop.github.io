@@ -19,7 +19,7 @@ nav_order: 2
     </tr>
     <tr style="background-color:#e4ffde">
         <td>09:10 - 09:30</td>
-        <td>Keynote 1: <b>Prof. Dr. Abhinav Valada (Uni. of Freiburg)</b><br>Towards Open-World Automated Driving</td>
+        <td>Keynote 1: <b>Maria Lyssenko (TUM & BOSCH)</b><br>Functional Evaluation of Perception Performance for Automated Driving (AD)</td>
     </tr>
     <tr style="background-color:#e4ffde">
         <td>09:30 - 09:50</td>
@@ -31,7 +31,7 @@ nav_order: 2
     </tr>
         <tr style="background-color:#e4ffde">
         <td>10:10 - 10:30</td>
-        <td>Keynote 4: <b>Maria Lyssenko (TUM & BOSCH)</b><br>Functional Evaluation of Perception Performance for Automated Driving (AD)</td>
+        <td>Keynote 4: <b>Prof. Dr. Abhinav Valada (Uni. of Freiburg)</b><br>Towards Open-World Automated Driving</td>
     </tr>
     <tr style="background-color:#ffe7d3">
         <td>10:30 - 10:50</td>
